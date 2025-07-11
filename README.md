@@ -1,1 +1,1 @@
-Incomplete Multi-view Learning
+Trusted Deep Incomplete Multi-View Clustering
